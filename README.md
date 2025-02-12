@@ -1,14 +1,14 @@
-<img src="https://image.noelshack.com/fichier/2025/07/3/xxxx.jpg" width="100%">
+
 
 ---
 
-# 👋 Salut, moi c'est Julien Le Thoer
+# Moi c'est Julien LE THOER
 
 > 🚀 **Data Analyst Junior | Alternance Machine Learning Engineer (Septembre 2025)**
 > 
 > 📊 Passionné par la data, le Machine Learning et l'automatisation
 > 
-> 🎯 Objectif : Maîtriser l’industrialisation des modèles et le Cloud
+> 🎯 Objectif : Reussir une alterance dans le ML 
 
 ---
 
@@ -38,12 +38,16 @@
 
 ---
 
-## 📂 **Projets récents**
-📊 **Analyse des tendances du marché automobile** (_Pandas, SQL, Power BI_)
+🚀 Projets
+📊 Analyse des données automobiles & Dashboard interactif
+→ Exploration et visualisation des tendances du marché automobile à travers un tableau de bord dynamique.
 
-🤖 **Détection de fraudes bancaires avec ML** (_Scikit-Learn, PyTorch_)
+🎬 Système de recommandation de films
+→ Développement d’un algorithme de recommandation basé sur le contenu pour suggérer des films (Netflix, Amazon Prime, etc.).
 
-🌍 **Déploiement d’un modèle ML sur AWS avec Docker** (_MLOps_)
+🌍 Visualisation du système solaire
+→ Création d’un site web interactif et accessible à tous, permettant de visualiser et de comprendre le fonctionnement du système solaire.
+
 
 ---
 
@@ -56,7 +60,7 @@
 
 ## 📫 **Contact**
 <p align="left">
-  <a href="https://www.linkedin.com/in/ton-profil">
+  <a href="[https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/le-thöer-julien-5b9252264/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ton-email@example.com">
