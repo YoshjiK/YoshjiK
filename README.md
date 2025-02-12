@@ -1,4 +1,4 @@
-<img src="https://www.noelshack.com/2025-07-3-1739353463-capture-d-cran-2025-02-12-104419.jpg">
+<img src="https://image.noelshack.com/fichier/2025/07/3/xxxx.jpg" width="100%">
 
 ---
 
