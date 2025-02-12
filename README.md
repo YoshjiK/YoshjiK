@@ -21,7 +21,7 @@
   <img src="https://github.com/YoshjiK/YoshjiK/blob/b65774e7891f5040c1788f5203d1deca2439ed86/sql.png" alt="sql" width="50" height="50" />
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/postgre.png" alt="postgre" width="50" height="50" />
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/panda.png" alt="pandas" width="50" height="50" />
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/numpy.svg)" alt="numpy" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/numpy.svg" alt="numpy" width="50" height="50" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
