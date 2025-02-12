@@ -16,21 +16,16 @@
 ## 🛠️ **Compétences**
 
 ### 🖥️ Langages & Data Science
-<p align="left">
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/2efc9859e49ed46232731c2d7452cdab2758be5b/python.png" alt="python" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/b65774e7891f5040c1788f5203d1deca2439ed86/sql.png" alt="sql" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/postgre.png" alt="postgre" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/panda.png" alt="pandas" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/numpy.svg" alt="numpy" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/8b91d9cf3a855627753d2bdbad49c9741159a4b4/machine-learning.png" alt="ML" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/8b91d9cf3a855627753d2bdbad49c9741159a4b4/pytorch-logo-300x300.png" alt="pytorch" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
+  </tr>
+</table>
 </p>
 
 ### ⚙️ MLOps & Déploiement
