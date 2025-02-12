@@ -22,8 +22,8 @@
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/postgre.png" alt="postgre" width="50" height="50" />
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/panda.png" alt="pandas" width="50" height="50" />
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/numpy.svg" alt="numpy" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/8b91d9cf3a855627753d2bdbad49c9741159a4b4/machine-learning.png" alt="ML" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/8b91d9cf3a855627753d2bdbad49c9741159a4b4/pytorch-logo-300x300.png" alt="pytorch" width="50" height="50" />
 </p>
 
 ### ⚙️ MLOps & Déploiement
