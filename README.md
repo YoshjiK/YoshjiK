@@ -1,4 +1,4 @@
-<img src="https://URL_DE_TA_BANNIERE" alt="Julien Le Thoer - Machine Learning Engineer" width="100%">
+<img src="https://fr.imgbb.com">
 
 ---
 
