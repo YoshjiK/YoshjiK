@@ -29,10 +29,10 @@
 
 ### ⚙️ MLOps & Déploiement
 <p align="left">
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/27abf7a44bfe2c1e6040384a330c1ef759df6bdf/docker.png" alt="docker" width="40" height="40" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/27abf7a44bfe2c1e6040384a330c1ef759df6bdf/docker.png" alt="docker" width="50" height="50" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-005571?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/ed8edda5464ae06ab8231ad07e22d0d6d9bb15c8/Power_BI_(2).png" alt="docker" width="40" height="40" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/ed8edda5464ae06ab8231ad07e22d0d6d9bb15c8/Power_BI_(2).png" alt="docker" width="50" height="50" />
 </p>
 
 ---
