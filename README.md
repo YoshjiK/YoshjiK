@@ -29,14 +29,13 @@
 </p>
 
 ### ⚙️ MLOps & Déploiement
-<p align="left">
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/27abf7a44bfe2c1e6040384a330c1ef759df6bdf/docker.png" alt="docker" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/befa211d354dce6bfb5b7f1c585fc1ee2551f073/sociale.png" alt="aws" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/ed8edda5464ae06ab8231ad07e22d0d6d9bb15c8/Power_BI_(2).png" alt="powerbi" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="40"/><br>Power BI</td>
+  </tr>
+</table>
 
 ---
 
