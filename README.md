@@ -62,7 +62,7 @@
 ## 📫 **Contact**
 <p align="left">
   <a href="https://www.linkedin.com/in/le-thöer-julien-5b9252264">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://github.com/YoshjiK/YoshjiK/blob/b3e913217f7ef9b5a069e0592622f429487f756c/linkedin.png" />
   </a>
   <a href="mailto:ton-email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
