@@ -18,7 +18,9 @@
 ### 🖥️ Langages & Data Science
 <p align="left">
   <img src="https://github.com/YoshjiK/YoshjiK/blob/2efc9859e49ed46232731c2d7452cdab2758be5b/python.png" alt="python" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/b65774e7891f5040c1788f5203d1deca2439ed86/sql.png" alt="sql" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/postgre.png" alt="postgre" width="50" height="50" />
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/panda.png" alt="pandas" width="50" height="50" />
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/numpy.svg" alt="numpy" width="50" height="50" />
