@@ -62,12 +62,12 @@
 ## 📫 **Contact**
 <p align="left">
   <a href="https://www.linkedin.com/in/le-thöer-julien-5b9252264">
-    <img src="https://github.com/YoshjiK/YoshjiK/blob/b3e913217f7ef9b5a069e0592622f429487f756c/linkedin.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="mailto:ton-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
   <a href="https://github.com/TonPseudoGitHub">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
 </p>
