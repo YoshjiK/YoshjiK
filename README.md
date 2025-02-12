@@ -32,8 +32,8 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="40"/><br>Power BI</td>
+    <td align="center"><img src="https://github.com/YoshjiK/YoshjiK/blob/350892a1cdd42c791d00e0e12c47462deb2d3f43/sociale.png" width="40"/><br>AWS</td>
+    <td align="center"><img src="https://github.com/YoshjiK/YoshjiK/blob/350892a1cdd42c791d00e0e12c47462deb2d3f43/Power_BI_(2).png" width="40"/><br>Power BI</td>
   </tr>
 </table>
 
