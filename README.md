@@ -54,7 +54,7 @@
 
 ## 📊 **Statistiques GitHub**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoshjiK&show_icons=true&theme=dark" />
 </p>
 
 ---
