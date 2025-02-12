@@ -7,8 +7,7 @@
 
 # Moi c'est Julien LE THOER
 
-> 🚀 **Data Analyst Junior | Alternance Machine Learning Engineer (Septembre 2025)
-**
+> 🚀 Data Analyst Junior | Alternance Machine Learning Engineer (Septembre 2025)
 > 
 > 📊 Passionné par la data, le Machine Learning et l'automatisation
 > 
