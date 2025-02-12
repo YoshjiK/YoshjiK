@@ -1,4 +1,4 @@
-src="<img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=dark"  />
+src="src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=dark"  />
 
 ---
 
