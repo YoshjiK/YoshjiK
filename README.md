@@ -60,7 +60,7 @@
 
 ## 📫 **Contact**
 <p align="left">
-  <a href="[https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/le-thöer-julien-5b9252264/)">
+  <a href="https://www.linkedin.com/in/le-thöer-julien-5b9252264">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ton-email@example.com">
