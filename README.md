@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/e52198b73dabd4266de730c2c875abeea467b765/Yellow%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner%20(2).png" alt="Statistiques GitHub" width="500"/>
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/e52198b73dabd4266de730c2c875abeea467b765/Yellow%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner%20(2).png" alt="Statistiques GitHub" width="1000"/>
 </p>
 
 
