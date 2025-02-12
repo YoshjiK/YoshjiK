@@ -29,7 +29,7 @@
 
 ### ⚙️ MLOps & Déploiement
 <p align="left">
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/27abf7a44bfe2c1e6040384a330c1ef759df6bdf/docker.png" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/27abf7a44bfe2c1e6040384a330c1ef759df6bdf/docker.png" alt="docker" width="40" height="40" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-005571?style=for-the-badge&logo=gitlab&logoColor=white" />
