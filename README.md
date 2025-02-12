@@ -1,17 +1,17 @@
-<img src="https://URL_DE_TA_BANNIERE" alt="Julien - Data Analyst & ML Engineer" width="100%">
+<img src="https://URL_DE_TA_BANNIERE" alt="Julien Le Thoer - Machine Learning Engineer" width="100%">
 
-<h2 align="center">👋 Hey, moi c'est Julien</h2>
+<h2 align="center">👋 Hey, moi c'est Julien Le Thoer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B801&center=true&width=435&lines=Data+Analyst+%E2%9E%9C+Machine+Learning+Engineer;Passionn%C3%A9+par+la+data+et+le+MLOps;Toujours+en+train+d'apprendre+!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Data+Analyst+%E2%9E%9C+Machine+Learning+Engineer;Passionn%C3%A9+par+la+data+et+le+MLOps;Toujours+en+train+d'apprendre+!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 **À propos de moi**
-🎯 **En transition vers Machine Learning Engineer (Alternance en Septembre 2025)**  
-📊 **Expérience en analyse de données, Machine Learning et MLOps**  
-💡 **Passionné par l'optimisation des modèles et leur déploiement**  
+### 🌲 **À propos de moi**
+💡 **Data Analyst Junior | Alternance Machine Learning Engineer (Septembre 2025)**  
+📊 **Passionné par la data, l’optimisation des modèles et le déploiement en production**  
+🛠️ **Exploration en cours :** MLOps, AWS, Kubernetes, et CI/CD  
 
 ---
 
@@ -26,15 +26,12 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-#### **📌 Data Visualisation & BI**
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
 #### **📌 MLOps & Déploiement**
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mage.AI-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-005571?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
@@ -42,7 +39,7 @@
 ### 📂 **Projets en cours**
 - 📊 **Analyse des tendances du marché automobile** (_Pandas, SQL, Power BI_)  
 - 🤖 **Détection de fraudes bancaires avec ML** (_Scikit-Learn, PyTorch_)  
-- 🌍 **Déploiement d’un modèle sur AWS avec Docker** (_MLOps_)  
+- 🌍 **Déploiement d’un modèle ML sur AWS avec Docker** (_MLOps_)  
 
 📍 **Objectif** : Maîtriser l’industrialisation des modèles et le Cloud.  
 
@@ -50,7 +47,7 @@
 
 ### 📊 **Statistiques GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=dark" alt="Stats GitHub" />
 </p>
 
 ---
