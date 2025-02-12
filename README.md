@@ -1,4 +1,7 @@
-src="src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=dark"  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julien-lethoer&show_icons=true&theme=dark" alt="Statistiques GitHub" width="500"/>
+</p>
+
 
 ---
 
