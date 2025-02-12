@@ -17,12 +17,11 @@
 
 ### 🖥️ Langages & Data Science
 <p align="left">
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/2efc9859e49ed46232731c2d7452cdab2758be5b/python.png" alt="docker" width="50" height="50" />
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/b65774e7891f5040c1788f5203d1deca2439ed86/sql.png" alt="docker" width="50" height="50" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/2efc9859e49ed46232731c2d7452cdab2758be5b/python.png" alt="python" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/b65774e7891f5040c1788f5203d1deca2439ed86/sql.png" alt="sql" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/postgre.png" alt="postgre" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/panda.png" alt="pandas" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/numpy.svg)" alt="numpy" width="50" height="50" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
@@ -30,8 +29,8 @@
 ### ⚙️ MLOps & Déploiement
 <p align="left">
   <img src="https://github.com/YoshjiK/YoshjiK/blob/27abf7a44bfe2c1e6040384a330c1ef759df6bdf/docker.png" alt="docker" width="50" height="50" />
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/befa211d354dce6bfb5b7f1c585fc1ee2551f073/sociale.png" alt="docker" width="50" height="50" />
-  <img src="https://github.com/YoshjiK/YoshjiK/blob/ed8edda5464ae06ab8231ad07e22d0d6d9bb15c8/Power_BI_(2).png" alt="docker" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/befa211d354dce6bfb5b7f1c585fc1ee2551f073/sociale.png" alt="aws" width="50" height="50" />
+  <img src="https://github.com/YoshjiK/YoshjiK/blob/ed8edda5464ae06ab8231ad07e22d0d6d9bb15c8/Power_BI_(2).png" alt="powerbi" width="50" height="50" />
 </p>
 
 ---
