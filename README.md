@@ -22,17 +22,25 @@
   <img src="https://github.com/YoshjiK/YoshjiK/blob/b65774e7891f5040c1788f5203d1deca2439ed86/sql.png" alt="sql" width="50" height="50" />
   &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/postgre.png" alt="postgre" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/panda.png" alt="pandas" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/579698e9cd4ef09c49ca70c3d3a00d549053f493/numpy.svg" alt="numpy" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/8b91d9cf3a855627753d2bdbad49c9741159a4b4/machine-learning.png" alt="ML" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/8b91d9cf3a855627753d2bdbad49c9741159a4b4/pytorch-logo-300x300.png" alt="pytorch" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
 </p>
 
 ### ⚙️ MLOps & Déploiement
 <p align="left">
   <img src="https://github.com/YoshjiK/YoshjiK/blob/27abf7a44bfe2c1e6040384a330c1ef759df6bdf/docker.png" alt="docker" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/befa211d354dce6bfb5b7f1c585fc1ee2551f073/sociale.png" alt="aws" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
   <img src="https://github.com/YoshjiK/YoshjiK/blob/ed8edda5464ae06ab8231ad07e22d0d6d9bb15c8/Power_BI_(2).png" alt="powerbi" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp
 </p>
 
 ---
